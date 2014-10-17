@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tvu:home|Door43 (tvu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tvu|d43-tvu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tvu/archive/master.zip|d43-tvu.zip]]
+
+**Recent Changes**
+{{changes>ns = tvu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tvu|Ethnologue data]]
+
